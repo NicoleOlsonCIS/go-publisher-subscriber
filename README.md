@@ -1,5 +1,7 @@
 # go-publisher-subscriber
 
+Instructions:  <br/>
+
 1. clone repo, navigate to cmd/pubsub
 2. go run pubsub.go
 3. start a new terminal window, navigate to the same folder
